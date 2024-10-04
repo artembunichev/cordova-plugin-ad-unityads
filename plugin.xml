@@ -43,5 +43,5 @@
 	</platform>
 	
 	<!-- dependency -->
-	<dependency id="cordova-plugin-ad-unityads-sdk" url="https://github.com/cranberrygame/cordova-plugin-ad-unityads-sdk" />	
+	<dependency id="cordova-plugin-ad-unityads-sdk" url="git@github.com:cranberrygame/cordova-plugin-ad-unityads-sdk.git" />	
 </plugin>
